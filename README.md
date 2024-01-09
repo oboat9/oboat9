@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Owen Stevenson</h1>
-<h3 align="center">A passionate web developer from Canada</h3>
+<h3 align="center">A very cool web developer from Canada.</h3>
 
-- 🌱 I’m currently learning **React.js**
+- My stuff is here --> [owenstevenson.net](owenstevenson.net)
 
-- 📫 How to reach me **owen@owenstevenson.net**
+- Reach me at **owen@owenstevenson.net**
 
 - :3 Fun --> **https://myanimelist.net/animelist/OBOAT9**
 
