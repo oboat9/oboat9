@@ -1,4 +1,11 @@
+<h1 align="center">Hi 👋, I'm Owen Stevenson</h1>
 <h3 align="center">A passionate web developer from Canada</h3>
+
+- 🌱 I’m currently learning **React.js**
+
+- 📫 How to reach me **owen@owenstevenson.net**
+
+- :3 Fun --> **https://myanimelist.net/animelist/OBOAT9**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
