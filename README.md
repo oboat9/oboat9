@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Owen Stevenson</h1>
-<h3 align="center">A very cool web developer from Canada.</h3>
+<h3 align="center">A cool web developer from Canada.</h3>
 
 - My stuff is here --> [owenstevenson.net](owenstevenson.net)
 
